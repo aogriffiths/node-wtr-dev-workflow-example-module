@@ -1,4 +1,4 @@
 note-wtr-dev-workflow-example-module
 ====================================
 
-An example module for note-wtr-dev-workflow-example
+An example module for the note-wtr-dev-workflow-example
