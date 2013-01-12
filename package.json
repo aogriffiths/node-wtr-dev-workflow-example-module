@@ -1,0 +1,20 @@
+{
+  "name": "dev-workflow-example-module",
+  "description": "An example module for the note-wtr-dev-workflow-example",
+  "version": "0.0.1",
+  "homepage": "https://github.com/aogriffiths/node-wtr-dev-workflow-example-module",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/aogriffiths/node-wtr-dev-workflow-example-module.git"
+  },
+  "author": {
+    "name": "Adam Griffiths"
+  },
+  "main": "./index",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
